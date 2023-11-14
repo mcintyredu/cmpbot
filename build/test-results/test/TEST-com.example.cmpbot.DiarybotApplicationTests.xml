@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.cmpbot.DiarybotApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-14T16:18:42" hostname="mcintyreduEMD6R.vmware.com" time="0.653">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.cmpbot.DiarybotApplicationTests" time="0.653"/>
+  <system-out><![CDATA[16:18:40.881 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.cmpbot.DiarybotApplicationTests]: DiarybotApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+16:18:40.956 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.cmpbot.DiarybotApplication for test class com.example.cmpbot.DiarybotApplicationTests
+16:18:41.060 [Test worker] INFO org.springframework.boot.devtools.restart.RestartApplicationListener -- Restart disabled due to context in which it is running
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.5)
+
+2023-11-14T16:18:41.236Z  INFO 37373 --- [    Test worker] c.e.cmpbot.DiarybotApplicationTests      : Starting DiarybotApplicationTests using Java 18.0.1 with PID 37373 (started by mcintyredu in /Users/mcintyredu/src/cmpbot)
+2023-11-14T16:18:41.237Z  INFO 37373 --- [    Test worker] c.e.cmpbot.DiarybotApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2023-11-14T16:18:42.197Z  INFO 37373 --- [    Test worker] c.e.cmpbot.DiarybotApplicationTests      : Started DiarybotApplicationTests in 1.136 seconds (process running for 1.978)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
