@@ -26,3 +26,4 @@ replay_pid*
 # IDE and Gradle
 .vscode
 .gradle
+node_modules

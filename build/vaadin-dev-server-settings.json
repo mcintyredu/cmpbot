@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/Users/mcintyredu/src/cmpbot/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/mcintyredu/src/cmpbot/frontend/generated/jar-resources",
+  "staticOutput": "/Users/mcintyredu/src/cmpbot/build/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/mcintyredu/src/cmpbot/build/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/mcintyredu/src/cmpbot/build/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/mcintyredu/src/cmpbot/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/mcintyredu/src/cmpbot/src/main/dev-bundle/config",
+  "jarResourcesFolder": "/Users/mcintyredu/src/cmpbot/frontend/generated/jar-resources",
+  "themeName": "default",
+  "clientServiceWorkerSource": "/Users/mcintyredu/src/cmpbot/build/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}

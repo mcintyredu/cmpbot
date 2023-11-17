@@ -1,0 +1,16 @@
+{
+  "productionMode": false,
+  "eagerServerLoad": false,
+  "npmFolder": "/Users/mcintyredu/src/cmpbot",
+  "node.version": "v20.9.0",
+  "node.download.root": "https://nodejs.org/dist/",
+  "frontendFolder": "/Users/mcintyredu/src/cmpbot/frontend",
+  "connect.javaSourceFolder": "/Users/mcintyredu/src/cmpbot/src/main/java",
+  "javaResourceFolder": "/Users/mcintyredu/src/cmpbot/src/main/resources",
+  "connect.applicationProperties": "/Users/mcintyredu/src/cmpbot/src/main/resources/application.properties",
+  "connect.openApiFile": "/Users/mcintyredu/src/cmpbot/build/generated-resources/openapi.json",
+  "project.frontend.generated": "/Users/mcintyredu/src/cmpbot/frontend/generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "build"
+}

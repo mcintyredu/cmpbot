@@ -13,11 +13,11 @@ public class ChatGPTConfig {
 
     public  String AUTHORIZATION = "";
     public  String BEARER = "Bearer ";
-    public  String APIKEY = "";
+    public  String API_KEY = "";
     public  String MODEL = "text-davinci-003";
-    public  Integer MAXTOKEN = 300;
+    public  Integer MAX_TOKEN = 300;
     public  Double TEMPERATURE = 0.0;
-    public  Double TOPP = 1.0;
+    public  Double TOP_P = 1.0;
     public  String MEDIATYPE = "grr";
     public  String URL = "https://api.openai.com/v1/completions";
 }
