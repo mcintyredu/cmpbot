@@ -27,3 +27,4 @@ replay_pid*
 .vscode
 .gradle
 node_modules
+generated
